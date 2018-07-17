@@ -6,3 +6,8 @@ nano /etc/php.ini
 
 // Add extention to php.ini file
 extension=oci8.so
+
+// Laravel configarations for mongodb 
+// Follow the documentation
+https://github.com/jenssegers/laravel-mongodb
+
