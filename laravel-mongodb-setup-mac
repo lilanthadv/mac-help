@@ -1,0 +1,8 @@
+// Install mongo DB
+sudo pecl install mongodb
+
+// Open php.ini file
+nano /etc/php.ini
+
+// Add extention to php.ini file
+extension=oci8.so
